@@ -12,9 +12,9 @@ export default function RootLayout({ children }) {
         <link rel="icon" href="/logo.png" />
         <link rel='manifest' href='/manifest.json' />
         <link rel='apple-touch-icon' href='/logo.png' />
-        <meta name="theme-color" content="#A5292D" />
-        <meta name="msapplication-navbutton-color" content="#A5292D" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="#A5292D" />
+        <meta name="theme-color" content="#ff004c" />
+        <meta name="msapplication-navbutton-color" content="#ff004c" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="#ff004c" />
         <meta name="description" content="Centro de estetica profesional" />
         <meta name="keywords" content="Marbella" />
         <meta name="author" content="Marbella" />
