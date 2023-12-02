@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
         <meta name="theme-color" content="#ff004c" />
         <meta name="msapplication-navbutton-color" content="#ff004c" />
         <meta name="apple-mobile-web-app-status-bar-style" content="#ff004c" />
-        <meta name="description" content="Centro de estetica profesional" />
+        <meta name="description" content="Centro de belleza profesional" />
         <meta name="keywords" content="Marbella" />
         <meta name="author" content="Marbella" />
         <title>Marbella</title>
