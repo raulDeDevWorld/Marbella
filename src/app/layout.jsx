@@ -15,10 +15,10 @@ export default function RootLayout({ children }) {
         <meta name="theme-color" content="#A5292D" />
         <meta name="msapplication-navbutton-color" content="#A5292D" />
         <meta name="apple-mobile-web-app-status-bar-style" content="#A5292D" />
-        <meta name="description" content="Servicios Odotologicos" />
-        <meta name="keywords" content="OPTICA CRISTA WARNNER" />
-        <meta name="author" content="OPTICA CRISTA WARNNER" />
-        <title>OPTICA CRISTA WARNNER</title>
+        <meta name="description" content="Centro de estetica profesional" />
+        <meta name="keywords" content="Marbella" />
+        <meta name="author" content="Marbella" />
+        <title>Marbella</title>
       </head>
       <body className={`${inter.className} bg-white`}>
       <UserProvider>
