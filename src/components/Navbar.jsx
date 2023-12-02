@@ -27,7 +27,7 @@ export default function Navbar({ children }) {
     
     return (
         <nav className="w-screen fixed top-0 z-10 ">
-            <div className="max-w-screen flex flex-wrap items-center justify-between bg-[#ff004c] border-b-[10px] border-[#422C39] mx-auto p-4 z-[1000]">
+            <div className="max-w-screen flex flex-wrap items-center justify-between bg-[#ff004c] border-b-[10px] border-gray-200 mx-auto p-4 z-[1000]">
                 <a className="flex items-center text-white">
                     <img src="/logo.png" className="h-8 mr-3 bg-white rounded-[5px]" alt="Flowbite Logo" /><span className='text-[12px]'>MARBELLA <br /> ESTETICA PROFESIONAL</span>
                 </a>
